@@ -1,0 +1,100 @@
+{
+  "id": "2988992",
+  "name": "vue_flower",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "卖花",
+  "glyphs": [
+    {
+      "icon_id": "15846761",
+      "name": "教育百科",
+      "font_class": "jiaoyubaike",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "2486594",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "3868287",
+      "name": "账号权限管理",
+      "font_class": "zhanghaoquanxianguanli",
+      "unicode": "eb68",
+      "unicode_decimal": 60264
+    },
+    {
+      "icon_id": "5201465",
+      "name": "花 (16)",
+      "font_class": "hua",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "9920082",
+      "name": "数据资产-个人资产",
+      "font_class": "shujuzichan-gerenzichan",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "12936196",
+      "name": "交易所",
+      "font_class": "jiaoyisuo",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "17852614",
+      "name": "s_用户列表",
+      "font_class": "s_yonghuliebiao",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "765527",
+      "name": "鲜花",
+      "font_class": "shouye",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "866488",
+      "name": "表单",
+      "font_class": "biaodan",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "2882749",
+      "name": "密码登录",
+      "font_class": "mimadenglu",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "5532892",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "7090030",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "23418411",
+      "name": "花盆",
+      "font_class": "huapen",
+      "unicode": "e825",
+      "unicode_decimal": 59429
+    }
+  ]
+}
